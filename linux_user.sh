@@ -1,3 +1,3 @@
 #Hello
 
-echo "Veuillez entrer : "
+echo "Veuillez changer votre mot de passe?"
